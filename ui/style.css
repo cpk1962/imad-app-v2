@@ -1,6 +1,6 @@
 body {
     font-family: sans-serif;
-    background-color: lightgrey;
+    background-color: yellow;
     margin-top: 75px;
 }
 
@@ -20,5 +20,3 @@ P {color : red;
 
 .img-medium {
     height: 200px;
-}
-
